@@ -1,0 +1,14 @@
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.Entity.Contexto\bin\Debug\netcoreapp2.2\DesafioViajaNet.Entity.deps.json
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.Entity.Contexto\bin\Debug\netcoreapp2.2\DesafioViajaNet.Entity.runtimeconfig.json
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.Entity.Contexto\bin\Debug\netcoreapp2.2\DesafioViajaNet.Entity.runtimeconfig.dev.json
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.Entity.Contexto\bin\Debug\netcoreapp2.2\DesafioViajaNet.Entity.dll
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.Entity.Contexto\bin\Debug\netcoreapp2.2\DesafioViajaNet.Entity.pdb
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.Entity.Contexto\bin\Debug\netcoreapp2.2\DesafioViajaNet.Dominio.dll
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.Entity.Contexto\bin\Debug\netcoreapp2.2\DesafioViajaNet.Dominio.pdb
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.Entity.Contexto\obj\Debug\netcoreapp2.2\DesafioViajaNet.Entity.csprojAssemblyReference.cache
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.Entity.Contexto\obj\Debug\netcoreapp2.2\DesafioViajaNet.Entity.csproj.CoreCompileInputs.cache
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.Entity.Contexto\obj\Debug\netcoreapp2.2\DesafioViajaNet.Entity.AssemblyInfoInputs.cache
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.Entity.Contexto\obj\Debug\netcoreapp2.2\DesafioViajaNet.Entity.AssemblyInfo.cs
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.Entity.Contexto\obj\Debug\netcoreapp2.2\DesafioViajaNet.Entity.csproj.CopyComplete
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.Entity.Contexto\obj\Debug\netcoreapp2.2\DesafioViajaNet.Entity.dll
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.Entity.Contexto\obj\Debug\netcoreapp2.2\DesafioViajaNet.Entity.pdb

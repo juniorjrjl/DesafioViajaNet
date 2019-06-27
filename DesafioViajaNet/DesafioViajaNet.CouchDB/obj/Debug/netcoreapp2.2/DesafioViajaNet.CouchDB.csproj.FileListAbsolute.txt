@@ -1,0 +1,9 @@
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.CouchDB\bin\Debug\netcoreapp2.2\DesafioViajaNet.CouchDB.deps.json
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.CouchDB\bin\Debug\netcoreapp2.2\DesafioViajaNet.CouchDB.dll
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.CouchDB\obj\Debug\netcoreapp2.2\DesafioViajaNet.CouchDB.csprojAssemblyReference.cache
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.CouchDB\obj\Debug\netcoreapp2.2\DesafioViajaNet.CouchDB.csproj.CoreCompileInputs.cache
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.CouchDB\obj\Debug\netcoreapp2.2\DesafioViajaNet.CouchDB.AssemblyInfoInputs.cache
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.CouchDB\obj\Debug\netcoreapp2.2\DesafioViajaNet.CouchDB.AssemblyInfo.cs
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.CouchDB\bin\Debug\netcoreapp2.2\DesafioViajaNet.CouchDB.pdb
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.CouchDB\obj\Debug\netcoreapp2.2\DesafioViajaNet.CouchDB.dll
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.CouchDB\obj\Debug\netcoreapp2.2\DesafioViajaNet.CouchDB.pdb

@@ -1,0 +1,669 @@
+{
+  "format": 1,
+  "restore": {
+    "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.WebAPI\\DesafioViajaNet.WebAPI.csproj": {}
+  },
+  "projects": {
+    "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.CouchDB.Repositorio\\DesafioViajaNet.CouchDB.Repositorio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.CouchDB.Repositorio\\DesafioViajaNet.CouchDB.Repositorio.csproj",
+        "projectName": "DesafioViajaNet.CouchDB.Repositorio",
+        "projectPath": "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.CouchDB.Repositorio\\DesafioViajaNet.CouchDB.Repositorio.csproj",
+        "packagesPath": "C:\\Users\\Junior\\.nuget\\packages\\",
+        "outputPath": "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.CouchDB.Repositorio\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Junior\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.Dominio\\DesafioViajaNet.Dominio.csproj": {
+                "projectPath": "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.Dominio\\DesafioViajaNet.Dominio.csproj"
+              },
+              "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.RepositorioGenerico\\DesafioViajaNet.RepositorioGenerico.csproj": {
+                "projectPath": "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.RepositorioGenerico\\DesafioViajaNet.RepositorioGenerico.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "CouchbaseNetClient": {
+              "target": "Package",
+              "version": "[2.7.8, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.CouchDB\\DesafioViajaNet.CouchDB.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.CouchDB\\DesafioViajaNet.CouchDB.csproj",
+        "projectName": "DesafioViajaNet.CouchDB",
+        "projectPath": "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.CouchDB\\DesafioViajaNet.CouchDB.csproj",
+        "packagesPath": "C:\\Users\\Junior\\.nuget\\packages\\",
+        "outputPath": "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.CouchDB\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Junior\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "CouchbaseNetClient": {
+              "target": "Package",
+              "version": "[2.7.8, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.Dominio\\DesafioViajaNet.Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.Dominio\\DesafioViajaNet.Dominio.csproj",
+        "projectName": "DesafioViajaNet.Dominio",
+        "projectPath": "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.Dominio\\DesafioViajaNet.Dominio.csproj",
+        "packagesPath": "C:\\Users\\Junior\\.nuget\\packages\\",
+        "outputPath": "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.Dominio\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Junior\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.DTO\\DesafioViajaNet.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.DTO\\DesafioViajaNet.DTO.csproj",
+        "projectName": "DesafioViajaNet.DTO",
+        "projectPath": "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.DTO\\DesafioViajaNet.DTO.csproj",
+        "packagesPath": "C:\\Users\\Junior\\.nuget\\packages\\",
+        "outputPath": "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Junior\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.RabbitSender\\DesafioViajaNet.RabbitManager.csproj": {
+                "projectPath": "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.RabbitSender\\DesafioViajaNet.RabbitManager.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.Entity.Contexto\\DesafioViajaNet.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.Entity.Contexto\\DesafioViajaNet.Entity.csproj",
+        "projectName": "DesafioViajaNet.Entity",
+        "projectPath": "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.Entity.Contexto\\DesafioViajaNet.Entity.csproj",
+        "packagesPath": "C:\\Users\\Junior\\.nuget\\packages\\",
+        "outputPath": "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.Entity.Contexto\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Junior\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.Dominio\\DesafioViajaNet.Dominio.csproj": {
+                "projectPath": "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.Dominio\\DesafioViajaNet.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.EntityRepositorio\\DesafioViajaNet.Entity.Repositorio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.EntityRepositorio\\DesafioViajaNet.Entity.Repositorio.csproj",
+        "projectName": "DesafioViajaNet.Entity.Repositorio",
+        "projectPath": "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.EntityRepositorio\\DesafioViajaNet.Entity.Repositorio.csproj",
+        "packagesPath": "C:\\Users\\Junior\\.nuget\\packages\\",
+        "outputPath": "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.EntityRepositorio\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Junior\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.Dominio\\DesafioViajaNet.Dominio.csproj": {
+                "projectPath": "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.Dominio\\DesafioViajaNet.Dominio.csproj"
+              },
+              "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.DTO\\DesafioViajaNet.DTO.csproj": {
+                "projectPath": "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.DTO\\DesafioViajaNet.DTO.csproj"
+              },
+              "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.Entity.Contexto\\DesafioViajaNet.Entity.csproj": {
+                "projectPath": "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.Entity.Contexto\\DesafioViajaNet.Entity.csproj"
+              },
+              "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.RepositorioGenerico\\DesafioViajaNet.RepositorioGenerico.csproj": {
+                "projectPath": "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.RepositorioGenerico\\DesafioViajaNet.RepositorioGenerico.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.RabbitSender\\DesafioViajaNet.RabbitManager.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.RabbitSender\\DesafioViajaNet.RabbitManager.csproj",
+        "projectName": "DesafioViajaNet.RabbitManager",
+        "projectPath": "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.RabbitSender\\DesafioViajaNet.RabbitManager.csproj",
+        "packagesPath": "C:\\Users\\Junior\\.nuget\\packages\\",
+        "outputPath": "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.RabbitSender\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Junior\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.RepositorioGenerico\\DesafioViajaNet.RepositorioGenerico.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.RepositorioGenerico\\DesafioViajaNet.RepositorioGenerico.csproj",
+        "projectName": "DesafioViajaNet.RepositorioGenerico",
+        "projectPath": "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.RepositorioGenerico\\DesafioViajaNet.RepositorioGenerico.csproj",
+        "packagesPath": "C:\\Users\\Junior\\.nuget\\packages\\",
+        "outputPath": "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.RepositorioGenerico\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Junior\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.Servico\\DesafioViajaNet.Servico.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.Servico\\DesafioViajaNet.Servico.csproj",
+        "projectName": "DesafioViajaNet.Servico",
+        "projectPath": "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.Servico\\DesafioViajaNet.Servico.csproj",
+        "packagesPath": "C:\\Users\\Junior\\.nuget\\packages\\",
+        "outputPath": "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.Servico\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Junior\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.CouchDB.Repositorio\\DesafioViajaNet.CouchDB.Repositorio.csproj": {
+                "projectPath": "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.CouchDB.Repositorio\\DesafioViajaNet.CouchDB.Repositorio.csproj"
+              },
+              "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.Dominio\\DesafioViajaNet.Dominio.csproj": {
+                "projectPath": "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.Dominio\\DesafioViajaNet.Dominio.csproj"
+              },
+              "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.DTO\\DesafioViajaNet.DTO.csproj": {
+                "projectPath": "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.DTO\\DesafioViajaNet.DTO.csproj"
+              },
+              "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.EntityRepositorio\\DesafioViajaNet.Entity.Repositorio.csproj": {
+                "projectPath": "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.EntityRepositorio\\DesafioViajaNet.Entity.Repositorio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.WebAPI\\DesafioViajaNet.WebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.WebAPI\\DesafioViajaNet.WebAPI.csproj",
+        "projectName": "DesafioViajaNet.WebAPI",
+        "projectPath": "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.WebAPI\\DesafioViajaNet.WebAPI.csproj",
+        "packagesPath": "C:\\Users\\Junior\\.nuget\\packages\\",
+        "outputPath": "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.WebAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Junior\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.CouchDB\\DesafioViajaNet.CouchDB.csproj": {
+                "projectPath": "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.CouchDB\\DesafioViajaNet.CouchDB.csproj"
+              },
+              "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.DTO\\DesafioViajaNet.DTO.csproj": {
+                "projectPath": "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.DTO\\DesafioViajaNet.DTO.csproj"
+              },
+              "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.RabbitSender\\DesafioViajaNet.RabbitManager.csproj": {
+                "projectPath": "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.RabbitSender\\DesafioViajaNet.RabbitManager.csproj"
+              },
+              "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.Servico\\DesafioViajaNet.Servico.csproj": {
+                "projectPath": "A:\\projetos_estudo\\C#\\web\\DesafioViajaNet\\DesafioViajaNet.Servico\\DesafioViajaNet.Servico.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "CouchbaseNetClient": {
+              "target": "Package",
+              "version": "[2.7.8, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

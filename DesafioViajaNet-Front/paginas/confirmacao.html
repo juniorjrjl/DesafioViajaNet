@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="utf-8"/>
+        <title>Desafio ViajaNet - Seleção de voo</title>
+        <link rel="stylesheet" href="../node_modules/bootstrap/dist/css/bootstrap.min.css"/>
+    </head>
+    <body> 
+        <nav class="navbar navbar-dark bg-dark">
+            <a class="navbar-brand" href="#">ViajaNet</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="index.html">Home </a>
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link" href="landing.html">Destinos</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+
+        <div class="container">
+            <div class="row">
+                <div class="col-2"></div>
+                <div class="col-8">
+                    <h1>Falta pouco para confirmar sua viagem, confirme os dados abaixo e boa viagem!</h1>
+                </div>
+                <div class="col-2"></div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <div class="card" >
+                        <div class="card-header">
+                            <div class="row">
+                                <div class="col"></div>
+                                <div class="col">
+                                    <img src="../imagens/verao.jpg" class="card-img-top" alt="verão" style="width: 36rem;">
+                                </div>
+                                <div class="col"></div>
+                            </div>
+                        </div>
+
+                        <div class="card-body">
+                            <div class="row">
+                                <div class="col-2"></div>
+                                <div class="col-8">
+                                    <h5 id="txtRota"></h5>
+                                </div>
+                                <div class="col-2"></div>
+
+                                <div class="col-2"></div>
+                                <div class="col-8">
+                                    <h6 id="txtEmbarque"></h6>
+                                </div>
+                                <div class="col-2"></div>
+
+                                <div class="col-2"></div>
+                                <div class="col-8">
+                                    <h6 id="txtDesembarque"></h6>
+                                </div>
+                                <div class="col-2"></div>
+
+                                <div class="col-2"></div>
+                                <div class="col-8">
+                                    <p class="card-text" id="txtPreco"></p>
+                                </div>
+                                <div class="col-2"></div>
+
+                                <div class="col-3"></div>
+                                <div class="col">
+                                    <button class="btn btn-primary" id="btnConfirmar">Confirmar</button>
+                                </div>
+                                <div class="col">
+                                    <button class="btn btn-danger" id="btnCancelar">Cancelar</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <script src="../node_modules/moment/min/moment.min.js" ></script>
+        <script src="../node_modules/jquery/dist/jquery.min.js" ></script>
+        <script src="../node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+        <script src="../script/confirmacao.js" ></script>
+    </body>
+</html>

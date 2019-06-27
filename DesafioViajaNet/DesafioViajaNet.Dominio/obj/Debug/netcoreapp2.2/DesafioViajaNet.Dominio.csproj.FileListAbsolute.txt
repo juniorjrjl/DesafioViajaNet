@@ -1,0 +1,9 @@
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.Dominio\bin\Debug\netcoreapp2.2\DesafioViajaNet.Dominio.deps.json
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.Dominio\bin\Debug\netcoreapp2.2\DesafioViajaNet.Dominio.dll
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.Dominio\bin\Debug\netcoreapp2.2\DesafioViajaNet.Dominio.pdb
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.Dominio\obj\Debug\netcoreapp2.2\DesafioViajaNet.Dominio.csproj.CoreCompileInputs.cache
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.Dominio\obj\Debug\netcoreapp2.2\DesafioViajaNet.Dominio.AssemblyInfoInputs.cache
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.Dominio\obj\Debug\netcoreapp2.2\DesafioViajaNet.Dominio.AssemblyInfo.cs
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.Dominio\obj\Debug\netcoreapp2.2\DesafioViajaNet.Dominio.dll
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.Dominio\obj\Debug\netcoreapp2.2\DesafioViajaNet.Dominio.pdb
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.Dominio\obj\Debug\netcoreapp2.2\DesafioViajaNet.Dominio.csprojAssemblyReference.cache

@@ -1,0 +1,9 @@
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.RabbitSender\bin\Release\netcoreapp2.2\DesafioViajaNet.RabbitManager.deps.json
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.RabbitSender\bin\Release\netcoreapp2.2\DesafioViajaNet.RabbitManager.dll
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.RabbitSender\bin\Release\netcoreapp2.2\DesafioViajaNet.RabbitManager.pdb
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.RabbitSender\obj\Release\netcoreapp2.2\DesafioViajaNet.RabbitManager.csprojAssemblyReference.cache
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.RabbitSender\obj\Release\netcoreapp2.2\DesafioViajaNet.RabbitManager.csproj.CoreCompileInputs.cache
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.RabbitSender\obj\Release\netcoreapp2.2\DesafioViajaNet.RabbitManager.AssemblyInfoInputs.cache
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.RabbitSender\obj\Release\netcoreapp2.2\DesafioViajaNet.RabbitManager.AssemblyInfo.cs
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.RabbitSender\obj\Release\netcoreapp2.2\DesafioViajaNet.RabbitManager.dll
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.RabbitSender\obj\Release\netcoreapp2.2\DesafioViajaNet.RabbitManager.pdb

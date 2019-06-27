@@ -1,0 +1,14 @@
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.CouchDB.Repositorio\bin\Debug\netcoreapp2.2\DesafioViajaNet.CouchDB.Repositorio.deps.json
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.CouchDB.Repositorio\bin\Debug\netcoreapp2.2\DesafioViajaNet.CouchDB.Repositorio.dll
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.CouchDB.Repositorio\bin\Debug\netcoreapp2.2\DesafioViajaNet.RepositorioGenerico.dll
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.CouchDB.Repositorio\bin\Debug\netcoreapp2.2\DesafioViajaNet.RepositorioGenerico.pdb
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.CouchDB.Repositorio\obj\Debug\netcoreapp2.2\DesafioViajaNet.CouchDB.Repositorio.csprojAssemblyReference.cache
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.CouchDB.Repositorio\obj\Debug\netcoreapp2.2\DesafioViajaNet.CouchDB.Repositorio.csproj.CoreCompileInputs.cache
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.CouchDB.Repositorio\obj\Debug\netcoreapp2.2\DesafioViajaNet.CouchDB.Repositorio.AssemblyInfoInputs.cache
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.CouchDB.Repositorio\obj\Debug\netcoreapp2.2\DesafioViajaNet.CouchDB.Repositorio.AssemblyInfo.cs
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.CouchDB.Repositorio\obj\Debug\netcoreapp2.2\DesafioViajaNet.CouchDB.Repositorio.csproj.CopyComplete
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.CouchDB.Repositorio\bin\Debug\netcoreapp2.2\DesafioViajaNet.CouchDB.Repositorio.pdb
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.CouchDB.Repositorio\bin\Debug\netcoreapp2.2\DesafioViajaNet.Dominio.dll
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.CouchDB.Repositorio\bin\Debug\netcoreapp2.2\DesafioViajaNet.Dominio.pdb
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.CouchDB.Repositorio\obj\Debug\netcoreapp2.2\DesafioViajaNet.CouchDB.Repositorio.dll
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.CouchDB.Repositorio\obj\Debug\netcoreapp2.2\DesafioViajaNet.CouchDB.Repositorio.pdb

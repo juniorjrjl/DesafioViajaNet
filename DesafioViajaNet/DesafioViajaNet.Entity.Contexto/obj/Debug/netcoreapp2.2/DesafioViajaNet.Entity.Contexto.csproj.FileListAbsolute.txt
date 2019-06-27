@@ -1,0 +1,16 @@
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.Entity.Contexto\bin\Debug\netcoreapp2.2\DesafioViajaNet.Entity.Contexto.deps.json
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.Entity.Contexto\bin\Debug\netcoreapp2.2\DesafioViajaNet.Entity.Contexto.runtimeconfig.json
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.Entity.Contexto\bin\Debug\netcoreapp2.2\DesafioViajaNet.Entity.Contexto.runtimeconfig.dev.json
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.Entity.Contexto\bin\Debug\netcoreapp2.2\DesafioViajaNet.Entity.Contexto.dll
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.Entity.Contexto\bin\Debug\netcoreapp2.2\DesafioViajaNet.Entity.Contexto.pdb
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.Entity.Contexto\bin\Debug\netcoreapp2.2\DesafioViajaNet.Dominio.dll
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.Entity.Contexto\bin\Debug\netcoreapp2.2\DesafioViajaNet.Entity.TypeConfiguration.dll
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.Entity.Contexto\bin\Debug\netcoreapp2.2\DesafioViajaNet.Entity.TypeConfiguration.pdb
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.Entity.Contexto\bin\Debug\netcoreapp2.2\DesafioViajaNet.Dominio.pdb
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.Entity.Contexto\obj\Debug\netcoreapp2.2\DesafioViajaNet.Entity.Contexto.csprojAssemblyReference.cache
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.Entity.Contexto\obj\Debug\netcoreapp2.2\DesafioViajaNet.Entity.Contexto.csproj.CoreCompileInputs.cache
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.Entity.Contexto\obj\Debug\netcoreapp2.2\DesafioViajaNet.Entity.Contexto.AssemblyInfoInputs.cache
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.Entity.Contexto\obj\Debug\netcoreapp2.2\DesafioViajaNet.Entity.Contexto.AssemblyInfo.cs
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.Entity.Contexto\obj\Debug\netcoreapp2.2\DesafioViajaNet.Entity.Contexto.csproj.CopyComplete
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.Entity.Contexto\obj\Debug\netcoreapp2.2\DesafioViajaNet.Entity.Contexto.dll
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.Entity.Contexto\obj\Debug\netcoreapp2.2\DesafioViajaNet.Entity.Contexto.pdb

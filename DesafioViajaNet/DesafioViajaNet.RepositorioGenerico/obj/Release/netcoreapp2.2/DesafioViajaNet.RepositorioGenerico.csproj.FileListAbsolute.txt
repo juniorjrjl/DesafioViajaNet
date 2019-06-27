@@ -1,0 +1,9 @@
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.RepositorioGenerico\bin\Release\netcoreapp2.2\DesafioViajaNet.RepositorioGenerico.deps.json
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.RepositorioGenerico\bin\Release\netcoreapp2.2\DesafioViajaNet.RepositorioGenerico.dll
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.RepositorioGenerico\bin\Release\netcoreapp2.2\DesafioViajaNet.RepositorioGenerico.pdb
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.RepositorioGenerico\obj\Release\netcoreapp2.2\DesafioViajaNet.RepositorioGenerico.csprojAssemblyReference.cache
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.RepositorioGenerico\obj\Release\netcoreapp2.2\DesafioViajaNet.RepositorioGenerico.csproj.CoreCompileInputs.cache
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.RepositorioGenerico\obj\Release\netcoreapp2.2\DesafioViajaNet.RepositorioGenerico.AssemblyInfoInputs.cache
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.RepositorioGenerico\obj\Release\netcoreapp2.2\DesafioViajaNet.RepositorioGenerico.AssemblyInfo.cs
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.RepositorioGenerico\obj\Release\netcoreapp2.2\DesafioViajaNet.RepositorioGenerico.dll
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.RepositorioGenerico\obj\Release\netcoreapp2.2\DesafioViajaNet.RepositorioGenerico.pdb

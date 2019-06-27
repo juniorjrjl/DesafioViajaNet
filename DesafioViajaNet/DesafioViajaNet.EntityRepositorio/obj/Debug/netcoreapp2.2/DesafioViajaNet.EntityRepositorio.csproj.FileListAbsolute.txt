@@ -1,0 +1,6 @@
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.EntityRepositorio\bin\Debug\netcoreapp2.2\DesafioViajaNet.Dominio.dll
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.EntityRepositorio\bin\Debug\netcoreapp2.2\DesafioViajaNet.RepositorioGenerico.dll
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.EntityRepositorio\obj\Debug\netcoreapp2.2\DesafioViajaNet.EntityRepositorio.csprojAssemblyReference.cache
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.EntityRepositorio\obj\Debug\netcoreapp2.2\DesafioViajaNet.EntityRepositorio.csproj.CoreCompileInputs.cache
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.EntityRepositorio\obj\Debug\netcoreapp2.2\DesafioViajaNet.EntityRepositorio.AssemblyInfoInputs.cache
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.EntityRepositorio\obj\Debug\netcoreapp2.2\DesafioViajaNet.EntityRepositorio.AssemblyInfo.cs

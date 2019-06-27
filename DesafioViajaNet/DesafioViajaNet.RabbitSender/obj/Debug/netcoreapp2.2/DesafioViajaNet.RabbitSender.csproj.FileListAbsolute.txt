@@ -1,0 +1,3 @@
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.RabbitSender\obj\Debug\netcoreapp2.2\DesafioViajaNet.RabbitSender.csproj.CoreCompileInputs.cache
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.RabbitSender\obj\Debug\netcoreapp2.2\DesafioViajaNet.RabbitSender.AssemblyInfoInputs.cache
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.RabbitSender\obj\Debug\netcoreapp2.2\DesafioViajaNet.RabbitSender.AssemblyInfo.cs

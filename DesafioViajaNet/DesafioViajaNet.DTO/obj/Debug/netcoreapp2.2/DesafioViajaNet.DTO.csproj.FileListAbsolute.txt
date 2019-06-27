@@ -1,0 +1,12 @@
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.DTO\bin\Debug\netcoreapp2.2\DesafioViajaNet.DTO.deps.json
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.DTO\bin\Debug\netcoreapp2.2\DesafioViajaNet.DTO.dll
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.DTO\bin\Debug\netcoreapp2.2\DesafioViajaNet.DTO.pdb
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.DTO\obj\Debug\netcoreapp2.2\DesafioViajaNet.DTO.csproj.CoreCompileInputs.cache
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.DTO\obj\Debug\netcoreapp2.2\DesafioViajaNet.DTO.AssemblyInfoInputs.cache
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.DTO\obj\Debug\netcoreapp2.2\DesafioViajaNet.DTO.AssemblyInfo.cs
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.DTO\obj\Debug\netcoreapp2.2\DesafioViajaNet.DTO.dll
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.DTO\obj\Debug\netcoreapp2.2\DesafioViajaNet.DTO.pdb
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.DTO\bin\Debug\netcoreapp2.2\DesafioViajaNet.RabbitManager.dll
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.DTO\bin\Debug\netcoreapp2.2\DesafioViajaNet.RabbitManager.pdb
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.DTO\obj\Debug\netcoreapp2.2\DesafioViajaNet.DTO.csprojAssemblyReference.cache
+A:\projetos_estudo\C#\web\DesafioViajaNet\DesafioViajaNet.DTO\obj\Debug\netcoreapp2.2\DesafioViajaNet.DTO.csproj.CopyComplete
